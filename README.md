@@ -1,3 +1,3 @@
 AGPSfix-cooper
 ==============
-AGPSfix V5 for cooper 
+AGPSfix for cooper
