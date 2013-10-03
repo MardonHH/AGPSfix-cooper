@@ -1,0 +1,8 @@
+# create data/gps for GPS daemon
+    mkdir /data/gps 771 gps system
+    chown gps system /data/gps
+
+# start the GPS daemon	
+service gps-daemon /system/bin/gpsd
+    user system
+    group system inet
