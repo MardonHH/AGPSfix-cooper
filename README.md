@@ -1,6 +1,8 @@
-AGPSfix-cooper
+AGPSfix-msm7x27
 ==============
-AGPSfix for cooper made by Mardon
+AGPSfix for msm7x27 based devices
+like cooper and gio
+made by Mardon
 
 XDA Thread: http://forum.xda-developers.com/showthread.php?t=1801911
 
